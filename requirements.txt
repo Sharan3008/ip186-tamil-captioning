@@ -1,0 +1,9 @@
+openai-whisper
+torch
+transformers
+gradio==4.0.0
+soundfile
+sentencepiece
+protobuf
+indic-nlp-library
+numpy
